@@ -1,0 +1,2 @@
+每次都要密码 怎么办
+git config --global credential.helper store
