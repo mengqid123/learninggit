@@ -1,2 +1,5 @@
 创建一个新的分支
 git checkout -b newname
+
+##new up
+##还原一个v2
