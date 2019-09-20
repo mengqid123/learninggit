@@ -3,3 +3,6 @@ git checkout -b newname
 
 ##new up
 ##还原一个v2
+
+##
+git reset --
